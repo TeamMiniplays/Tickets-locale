@@ -12,7 +12,7 @@
 	"commands.language.invalid": "Bạn cần ghi rõ mã của ngôn ngữ hoặc cờ hiệu. Các ngôn ngữ đang khả dụng:\\n%s",
 	"commands.open.ticket_limit": "Bạn chỉ có thể mở %d %s một lúc",
 	"commands.open.too_many_tickets": "Hiện có quá nhiều phiếu hỗ trợ đang được mở. Hãy nhờ quản trị viên đóng bớt chúng hoặc di chuyển chúng qua mục khác",
-	"commands.panel": "Hãy truy cập <https://dashboard.ticketsbot.net/manage/%d/panels> để cài đặt với giao diện trực quan",
+	"commands.panel": "Hãy truy cập <https://ticketsdashboard.miniplays.de/manage/%d/panels> để cài đặt với giao diện trực quan",
 	"commands.premium": "Bạn có thể mua phiên bản cao cấp tại <https://www.patreon.com/ticketsbot>.\\nPhiên bản trả phí mang lại nhiều quyền lợi như:\\n```diff\\n+ Tạo bảng phiếu hỗ trợ không giới hạn\\n+ Thay đổi tên, ảnh đjai diện & trạng thái (nhãn trằng)\\n+ Thông tin chi tiết về hội, thành viên và hỗ trợ viên\\n+ Không có quản cáo thương hiệu ở cuối tin nhắn\\n+ Giúp đỡ đội ngũ phát triển và giúp mình trả phí người máy\\n```\\n\\nNgoài ra, bạn có thể đánh giá tại <https://vote.ticketsbot.net> để nhận phiên bản cao cấp miễn phí trong vòng 24 giờ",
 	"commands.premium.invalid_key": "Mã kích hoạt sai. Hãy kiểm tra xem bạn có chép nó đúng không.",
 	"commands.remove.no_permission": "Bạn không có quyền để loại bỏ người khác khỏi phiếu hỗ trợ này",
@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "ID của thẻ không thể dài hơn 16 ký tự",
 	"commands.tags.delete.invalid_arguments": "Phải chỉ rõ ID của thẻ để xóa",
 	"commands.tags.delete.not_exist": "Không tìm thấy thẻ tên có ID `%s`",
-	"commands.tags.get.invalid_arguments": "Bạn phải cung cấp ID của thẻ. Để hiểu hơn về thẻ, hãy đọc <https://ticketsbot.net/tags>.",
-	"commands.tags.get.invalid_tag": "Thẻ tên không hợp lệ. Xem chi tiết về thẻ tên tại <https://ticketsbot.net/tags>.",
+	"commands.tags.get.invalid_arguments": "Bạn phải cung cấp ID của thẻ. Để hiểu hơn về thẻ, hãy đọc <https://tickets.miniplays.de/tags>.",
+	"commands.tags.get.invalid_tag": "Thẻ tên không hợp lệ. Xem chi tiết về thẻ tên tại <https://tickets.miniplays.de/tags>.",
 	"commands.tags.list": "ID của các thẻ: \\n%s\\nĐể thấy được nội dung của một thẻ, dùng lệnh `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Phiếu hỗ trợ này chưa được nhận",
 	"commands.unclaim.not_claimer": "Chỉ quản trị viên vào người nhận phiếu hỗ trợ mới có thể hủy nhận phiếu hỗ trợ",
@@ -264,7 +264,7 @@
 					"description": ""
 				}
 			},
-			"about": "Nâng cấp cho bạn truy cập thêm bảng, số liệu, bot tuỳ chỉnh và nhiều hơn! Truy cập [website] (https://ticketsbot.net/premium) để tìm hiểu thêm.",
+			"about": "Nâng cấp cho bạn truy cập thêm bảng, số liệu, bot tuỳ chỉnh và nhiều hơn! Truy cập [website] (https://tickets.miniplays.de/premium) để tìm hiểu thêm.",
 			"already_activated": "Tin vui nè! Nâng cấp đã được kích hoạt trên máy chủ này rồi.",
 			"already_activated_whitelabel": "Tin vui nè! Nâng cấp đã được kích hoạt trên máy chủ này rồi.\n\nCần trợ giúp để bắt đầu sử dụng nhãn trắng? Đọc [hướng dẫn cài đặt](https://docs.ticketsbot.net/premium/whitelabel-setup-guide).",
 			"discord": {

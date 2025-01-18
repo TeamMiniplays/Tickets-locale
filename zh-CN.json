@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "标籤 ID 不能超过 16 个字符",
 	"commands.tags.delete.invalid_arguments": "您必须指定要删除的标籤 ID",
 	"commands.tags.delete.not_exist": "找不到 ID 为\"%s\"的标籤",
-	"commands.tags.get.invalid_arguments": "您必须提供标籤的 ID。有关标籤的更多帮助，请访问 <https://ticketsbot.net/tags>。",
-	"commands.tags.get.invalid_tag": "标籤无效。有关标籤的更多帮助，请访问 <https://ticketsbot.net/tags>。",
+	"commands.tags.get.invalid_arguments": "您必须提供标籤的 ID。有关标籤的更多帮助，请访问 <https://tickets.miniplays.de/tags>。",
+	"commands.tags.get.invalid_tag": "标籤无效。有关标籤的更多帮助，请访问 <https://tickets.miniplays.de/tags>。",
 	"commands.tags.list": "所有标籤的 ID：\\n%s\\n要查看标籤的内容，请运行 `%stag <ID>`",
 	"commands.unclaim.not_claimed": "目前问题单还没被指派",
 	"commands.unclaim.not_claimer": "只有管理者会已被分配到的人才可以解除分配",
@@ -264,7 +264,7 @@
 					"description": ""
 				}
 			},
-			"about": "高级订阅可以让您访问更多的面板、统计、自定义机器人等！访问我们的 [官网](https://ticketsbot.net/premium) 来了解更多信息。",
+			"about": "高级订阅可以让您访问更多的面板、统计、自定义机器人等！访问我们的 [官网](https://tickets.miniplays.de/premium) 来了解更多信息。",
 			"already_activated": "好消息！高级订阅已经在此服务器上激活。",
 			"already_activated_whitelabel": "好消息！高级订阅已经在此服务器上激活。\n\n为了帮助开始自定义机器人，请阅读[配置自定义机器人](https://docs.ticketsbot.net/prem/whitlabel-setup-guide)。",
 			"discord": {

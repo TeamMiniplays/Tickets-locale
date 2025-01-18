@@ -12,7 +12,7 @@
 	"commands.language.invalid": "Você precisa especificar uma código de idioma ou uma bandeira. Idiomas disponíveis:\\n%s",
 	"commands.open.ticket_limit": "Você só pode abrir %d %s de uma vez",
 	"commands.open.too_many_tickets": "Existem tickets demais na categoria de tickets. Peça pra um admin fechar alguns, ou movê-los para outra categoria",
-	"commands.panel": "Visite <https://dashboard.ticketsbot.net/manage/%d/panels> para configurar o painel",
+	"commands.panel": "Visite <https://ticketsdashboard.miniplays.de/manage/%d/panels> para configurar o painel",
 	"commands.premium": "Você pode comprar uma assinatura premium subscription em <https://www.patreon.com/ticketsbot>.\\nO premium fornece vários benefícios, como:\\n```diff\\n+ Criar painéis de ticket ilimitados\\n+ Customizar o nome, avatar e status do bot (whitelabel)\\n+ Estatísticas detalhadas sobre o servidor, usuários e equipe de suporte\\n+ Sem propaganda no rodapé das mensagens\\n+ Apoia o desenvolvimento e me ajuda a pagar os custos com servidores\\n```\\n\\nAlternativamente, você pode votar em <https://vote.ticketsbot.net> para obter o premium gratuitamente por 24 horas.",
 	"commands.premium.invalid_key": "Chave inválida. Certifique-se de que a copiou ela corretamente.",
 	"commands.remove.no_permission": "Você não tem permissão para remover usuários deste ticket",
@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "IDs de tags não podem ter mais de 16 caracteres",
 	"commands.tags.delete.invalid_arguments": "Você precisa especificar um ID de tag para remover",
 	"commands.tags.delete.not_exist": "Não foi possível encontrar uma tag com o ID `%s`",
-	"commands.tags.get.invalid_arguments": "Você precisa informar o ID da tag. Para mais ajuda com tags, acesse <https://ticketsbot.net/tags>.",
-	"commands.tags.get.invalid_tag": "Tag inválida. Para mais ajuda com tags, acesse <https://ticketsbot.net/tags>.",
+	"commands.tags.get.invalid_arguments": "Você precisa informar o ID da tag. Para mais ajuda com tags, acesse <https://tickets.miniplays.de/tags>.",
+	"commands.tags.get.invalid_tag": "Tag inválida. Para mais ajuda com tags, acesse <https://tickets.miniplays.de/tags>.",
 	"commands.tags.list": "IDs para todas as tags: \\n%s\\nPara ver o conteúdo de uma tag, digite `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Este ticket não foi atribuído",
 	"commands.unclaim.not_claimer": "Somente admins e o usuário que está atribuído ao ticket podem remover a atribuição",
@@ -264,7 +264,7 @@
 					"description": "Selecione esta opção se você fez sua compra na loja Discord"
 				}
 			},
-			"about": "O Premium lhe dá acesso a mais painéis, estatísticas, um bot personalizado e muito mais! Visite o nosso [website](https://ticketsbot.net/premium) para saber mais.",
+			"about": "O Premium lhe dá acesso a mais painéis, estatísticas, um bot personalizado e muito mais! Visite o nosso [website](https://tickets.miniplays.de/premium) para saber mais.",
 			"already_activated": "Boas notícias! O Premium já está ativo neste servidor.",
 			"already_activated_whitelabel": "Boas notícias! Premium já está ativo neste servidor.\n\nPara ajudar a começar com whitelabel, leia [nosso guia de instalação de whitelabel](https://docs.ticketsbot.net/premium/whitelabel-setup-guide).",
 			"discord": {

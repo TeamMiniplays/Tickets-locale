@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "Tag IDs können nicht länger als 16 Zeichen sein",
 	"commands.tags.delete.invalid_arguments": "Du musst eine Tag-ID angeben, um den Tag zu löschen",
 	"commands.tags.delete.not_exist": "Ein Tag mit der ID `%s` konnte nicht gefunden werden",
-	"commands.tags.get.invalid_arguments": "Du musst die ID eines Tags angeben. Für weitere Hilfe mit Tags schau dir <https://ticketsbot.net/tags> an.",
-	"commands.tags.get.invalid_tag": "Ungültiger Tag. Für weitere Hilfe mit Tags schau Dir <https://ticketsbot.net/tags> an.",
+	"commands.tags.get.invalid_arguments": "Du musst die ID eines Tags angeben. Für weitere Hilfe mit Tags schau dir <https://tickets.miniplays.de/tags> an.",
+	"commands.tags.get.invalid_tag": "Ungültiger Tag. Für weitere Hilfe mit Tags schau Dir <https://tickets.miniplays.de/tags> an.",
 	"commands.tags.list": "IDs für alle Tags: \\n%s\\nUm den Inhalt eines Tags anzusehen, benutze `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Dieses Ticket wird von niemandem bearbeitet",
 	"commands.unclaim.not_claimer": "Nur Administratoren und der Benutzer, der dieses Ticket bearbeitet, können dieses Ticket freigeben",
@@ -79,7 +79,7 @@
 	"open.success": "Neues Ticket geöffnet: %s",
 	"setup.auto.category.failure": "Ich benötige die `Kanäle verwalten` Berechtigung",
 	"setup.auto.category.success": "Ticket-Kategorie erstellt",
-	"setup.auto.completed": "Setup abgeschlossen! Klicken Sie auf [here](https://dashboard.ticketsbot.net/manage/%d/panels), um ein Reaktionsfeld einzurichten und <@&%d> und <@&%d> Rollen zu Ihren Mitarbeitern hinzuzufügen",
+	"setup.auto.completed": "Setup abgeschlossen! Klicken Sie auf [here](https://ticketsdashboard.miniplays.de/manage/%d/panels), um ein Reaktionsfeld einzurichten und <@&%d> und <@&%d> Rollen zu Ihren Mitarbeitern hinzuzufügen",
 	"setup.auto.roles.failure": "Ich benötige die `Rollen verwalten` Berechtigung",
 	"setup.auto.roles.success": "`Tickets Admin` & `Tickets Support` Rollen erstellt",
 	"setup.auto.transcript.failure": "Ich benötige die `Kanäle verwalten` Berechtigung",
@@ -264,7 +264,7 @@
 					"description": "Wähle diese Option, wenn du im Discord In-App Store eingekauft hast"
 				}
 			},
-			"about": "Premium gibt dir Zugang zu mehr Panels, Statistiken, einem personalisierten Bot und mehr! Besuche unsere [website](https://ticketsbot.net/premium) um mehr zu erfahren.",
+			"about": "Premium gibt dir Zugang zu mehr Panels, Statistiken, einem personalisierten Bot und mehr! Besuche unsere [website](https://tickets.miniplays.de/premium) um mehr zu erfahren.",
 			"already_activated": "Gute Nachrichten! Premium ist bereits auf diesem Server aktiviert.",
 			"already_activated_whitelabel": "Gute Nachrichten! Premium ist bereits auf diesem Server aktiviert.\n\nFür Hilfe bei Whitelabel, lese [unsere Whitelabel Einstellungsanleitung](https://docs.ticketsbot.net/premium/whitelabel-setup-guide).",
 			"discord": {

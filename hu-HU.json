@@ -12,7 +12,7 @@
 	"commands.language.invalid": "Meg kell adnia egy nyelvi kódot vagy zászlót. Elérhető nyelvek:\\n%s",
 	"commands.open.ticket_limit": "Csak %d %s számú jegy nyitható meg egyszerre!",
 	"commands.open.too_many_tickets": "Túl sok jegy van a jegykategóriában. Kérjen meg egy rendszergazdát, hogy zárjon be néhányat, vagy helyezzen át egy másik kategóriába.",
-	"commands.panel": "Látogasd meg a <https://dashboard.ticketsbot.net/manage/%d/panels> weboldalt, hogy szerkeszthesd a panelt",
+	"commands.panel": "Látogasd meg a <https://ticketsdashboard.miniplays.de/manage/%d/panels> weboldalt, hogy szerkeszthesd a panelt",
 	"commands.premium": "Prémium előfizetést vásárolhat <https://www.patreon.com/ticketsbot>.\\nA prémium számos előnnyel jár, mint pl:\\n```diff\\n+ Korlátlan jegypanel\\n+ Személyreszabható bot név, kép (whitelabel)\\n+ Részletes statisztikák a szerverről, a felhasználókról és a staffokról\\n+ Lábrészben szereplő vízjel eltávolítása.\\n+ Támogassa a fejlesztést, és segítsen a szerver költségeinek kifizetésében\\n```\\n\\nAlternatív megoldásként szavazhat itt: <https://vote.ticketsbot.net> Szerezz ingyenes prémiumot 24 óráig.",
 	"commands.premium.invalid_key": "Hibás kulcs. Győződjön meg arról, hogy helyesen másolta-e be.",
 	"commands.remove.no_permission": "Nincs jogosúltságod személyek eltávolításához.",
@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "A címkeazonosítók nem lehetnek hosszabbak, mint 16 karakter.",
 	"commands.tags.delete.invalid_arguments": "Add meg a törölni kívánt cimkét.",
 	"commands.tags.delete.not_exist": "A következő cimke nem található: `%s`.",
-	"commands.tags.get.invalid_arguments": "Meg kell adnia a címke azonosítóját. Ha további segítségre van szüksége a címkével kapcsolatban, látogasson el a <https://ticketsbot.net/tags> oldalra.",
-	"commands.tags.get.invalid_tag": "Érvénytelen címke. Ha további segítségre van szüksége a címkékkel kapcsolatban, látogasson el a <https://ticketsbot.net/tags> oldalra.",
+	"commands.tags.get.invalid_arguments": "Meg kell adnia a címke azonosítóját. Ha további segítségre van szüksége a címkével kapcsolatban, látogasson el a <https://tickets.miniplays.de/tags> oldalra.",
+	"commands.tags.get.invalid_tag": "Érvénytelen címke. Ha további segítségre van szüksége a címkékkel kapcsolatban, látogasson el a <https://tickets.miniplays.de/tags> oldalra.",
 	"commands.tags.list": "Elérhető cimkék: \\n%s\\nHogy megnézd a tartalmukat vagy kiírd használd ezt a parancsot: `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Ez a jegy még nem lett lefoglalva.",
 	"commands.unclaim.not_claimer": "Csak az adminisztrátorok, jegyet lefoglaló vagy megnyitó személy nyithatja ki azt.",
@@ -264,7 +264,7 @@
 					"description": ""
 				}
 			},
-			"about": "A prémium ad jogot több panelhez, statisztikához, egy különböző bothoz és még sok minden máshoz! Nézd meg a [website](https://ticketsbot.net/premium) a részletekért.",
+			"about": "A prémium ad jogot több panelhez, statisztikához, egy különböző bothoz és még sok minden máshoz! Nézd meg a [website](https://tickets.miniplays.de/premium) a részletekért.",
 			"already_activated": "Jó hír! A prémium már aktív ezen a szerveren.",
 			"already_activated_whitelabel": "Jó hír! A prémium már aktív ezen a szerveren.\n\nSegítségért a whitelabellel, olvasd el a [a whitelabel összerakási útmutatónkat](https://docs.ticketsbot.net/premium/whitelabel-setup-guide).",
 			"discord": {

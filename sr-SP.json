@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "Идентификација не може бити дужа од 16 знакова",
 	"commands.tags.delete.invalid_arguments": "Морате одредити идентификацију и садржај",
 	"commands.tags.delete.not_exist": "Етикета са идентификацијом `%s` цоулд нот бе фоунд",
-	"commands.tags.get.invalid_arguments": "Морате да ми дате идентификацију етикете. За више помоћи са ознаком, посетите <https://ticketsbot.net/tags>.",
-	"commands.tags.get.invalid_tag": "Неважећа ознака. За више помоћи с ознакама, посјетите <https://ticketsbot.net/tags>.",
+	"commands.tags.get.invalid_arguments": "Морате да ми дате идентификацију етикете. За више помоћи са ознаком, посетите <https://tickets.miniplays.de/tags>.",
+	"commands.tags.get.invalid_tag": "Неважећа ознака. За више помоћи с ознакама, посјетите <https://tickets.miniplays.de/tags>.",
 	"commands.tags.list": "Исправе за све ознаке:\\n%s\\nДа бисте видели садржај етикете, бежите. `%sОзнака <ID>`",
 	"commands.unclaim.not_claimed": "Ова карта се не тражи",
 	"commands.unclaim.not_claimer": "Само администратори и корисник који је тражио карту могу да одбију карту",
@@ -264,7 +264,7 @@
 					"description": ""
 				}
 			},
-			"about": "Премија ти даје приступ више панела, статистике, робот по наруџби и више! Посетите нас да сазнате више. [website](https://ticketsbot.net/premium).",
+			"about": "Премија ти даје приступ више панела, статистике, робот по наруџби и више! Посетите нас да сазнате више. [website](https://tickets.miniplays.de/premium).",
 			"already_activated": "",
 			"already_activated_whitelabel": "",
 			"discord": {

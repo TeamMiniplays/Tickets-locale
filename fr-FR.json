@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "Les IDs des étiquettes ne peuvent pas comporter plus de 16 caractères",
 	"commands.tags.delete.invalid_arguments": "Vous devez préciser l'identifiant de l'étiquette à supprimer",
 	"commands.tags.delete.not_exist": "Aucune étiquette avec l'ID `%s` n'a pu être trouvée",
-	"commands.tags.get.invalid_arguments": "Vous devez fournir l'identifiant de l'étiquette. Pour plus d'aide concernant les étiquettes, visitez le site <https://ticketsbot.net/tags>.",
-	"commands.tags.get.invalid_tag": "Étiquette invalide. Pour plus d'aide sur les étiquettes, rendez-vous sur <https://ticketsbot.net/tags>.",
+	"commands.tags.get.invalid_arguments": "Vous devez fournir l'identifiant de l'étiquette. Pour plus d'aide concernant les étiquettes, visitez le site <https://tickets.miniplays.de/tags>.",
+	"commands.tags.get.invalid_tag": "Étiquette invalide. Pour plus d'aide sur les étiquettes, rendez-vous sur <https://tickets.miniplays.de/tags>.",
 	"commands.tags.list": "IDs pour toutes les étiquettess : \\n%s\\nPour afficher le contenu d'une étiquette, tapez `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Ce ticket n'a pas été réclamé",
 	"commands.unclaim.not_claimer": "Seuls les administrateurs et l'utilisateur qui a réclamé le ticket peuvent retirer une réclamation",
@@ -264,7 +264,7 @@
 					"description": "Sélectionnez cette option si vous avez effectué votre achat dans le magasin Discord au moyen de l'application intégrée"
 				}
 			},
-			"about": "La version premium vous donne accès à plus de panneaux, de statistiques, un bot personnalisé et plus encore ! Visitez notre [site web](https://ticketsbot.net/premium) pour en savoir plus.",
+			"about": "La version premium vous donne accès à plus de panneaux, de statistiques, un bot personnalisé et plus encore ! Visitez notre [site web](https://tickets.miniplays.de/premium) pour en savoir plus.",
 			"already_activated": "Bonne nouvelle ! La version Premium est déjà active sur ce serveur.",
 			"already_activated_whitelabel": "Bonne nouvelle ! La version Premium est déjà active sur ce serveur.\n\nPour obtenir de l'aide pour commencer avec whitelabel, lisez [notre guide de configuration whitelabel](https://docs.ticketsbot.net/premium/whitelabel-setup-guide).",
 			"discord": {

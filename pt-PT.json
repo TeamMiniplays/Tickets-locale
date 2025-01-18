@@ -28,8 +28,8 @@
 	"commands.tags.create.too_long": "IDs de etiquetas não podem ter mais de 16 caracteres",
 	"commands.tags.delete.invalid_arguments": "Tu tens que especificar o ID de uma etiqueta para apagar",
 	"commands.tags.delete.not_exist": "Uma etiqueta com o ID `%s` não pôde ser encontrada",
-	"commands.tags.get.invalid_arguments": "Tu tens de fornecer o ID da etiqueta. Para mais ajuda com etiquetas, visita <https://ticketsbot.net/tags>.",
-	"commands.tags.get.invalid_tag": "Etiqueta inválida. Para mais ajuda com etiquetas, visita <https://ticketsbot.net/tags>.",
+	"commands.tags.get.invalid_arguments": "Tu tens de fornecer o ID da etiqueta. Para mais ajuda com etiquetas, visita <https://tickets.miniplays.de/tags>.",
+	"commands.tags.get.invalid_tag": "Etiqueta inválida. Para mais ajuda com etiquetas, visita <https://tickets.miniplays.de/tags>.",
 	"commands.tags.list": "IDs para todas as etiquetas: \\n%s\\nPara ver o conteúdo de uma etiqueta, executa `%stag <ID>`",
 	"commands.unclaim.not_claimed": "Este bilhete não foi reivindicado",
 	"commands.unclaim.not_claimer": "Apenas administradores e o utilizador que reivindicou o bilhete podem cancelar a reivindicação do bilhete",
@@ -264,7 +264,7 @@
 					"description": ""
 				}
 			},
-			"about": "O premium fornece-te acesso a mais painéis, estatísticas, um bot personalizado e mais! Visita o nosso [website](https://ticketsbot.net/premium) para saberes mais.",
+			"about": "O premium fornece-te acesso a mais painéis, estatísticas, um bot personalizado e mais! Visita o nosso [website](https://tickets.miniplays.de/premium) para saberes mais.",
 			"already_activated": "",
 			"already_activated_whitelabel": "",
 			"discord": {
